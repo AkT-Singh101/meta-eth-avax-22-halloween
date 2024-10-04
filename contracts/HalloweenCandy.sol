@@ -7,7 +7,6 @@ contract HalloweenCandy {
     uint256 public totalCandies;
     uint256 public totalCandiesGiven;
     uint256 public totalCandiesTaken;
-
     event CandyGiven(address indexed giver, uint256 amount);
     event CandyTaken(address indexed taker, uint256 amount);
 
