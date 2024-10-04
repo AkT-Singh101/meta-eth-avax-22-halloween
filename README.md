@@ -1,7 +1,7 @@
 
 # Halloween Candy Exchange
 
-![Halloween Candy]()
+![Halloween Candy](https://github.com/AkT-Singh101/meta-eth-avax-22-halloween/blob/main/hallocandy.png?raw=true)
 
 ## Overview
 
